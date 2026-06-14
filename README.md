@@ -109,8 +109,6 @@ This project can be used for:
 
 ## 📊 Project Structure
 
-## 📊 Project Structure
-
 ```
 customer-financial-risk-analysis/
 │
