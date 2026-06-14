@@ -152,4 +152,4 @@ Aspiring Data Analyst | AI & Financial Analytics Enthusiast
 
 ## 🔗 Connect with me
 
-(You can add your LinkedIn link here)
+](https://www.linkedin.com/in/sneha-tyagi-750b31276/)
